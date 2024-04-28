@@ -1,7 +1,3 @@
-![brick-and-mortar-insights-powerbi-1](https://github.com/AmishBaskaran/brick-and-mortar-insights-powerbi/assets/167852107/2be195f5-adbb-46ba-9616-ac7b610d60c8)
-![brick-and-mortar-insights-powerbi-2](https://github.com/AmishBaskaran/brick-and-mortar-insights-powerbi/assets/167852107/2ff768f7-6811-4153-ab61-5492228f4592)
-![brick-and-mortar-insights-powerbi-3](https://github.com/AmishBaskaran/brick-and-mortar-insights-powerbi/assets/167852107/b30daa5c-7d91-4407-8335-dbfd13808d0d)
-
 # Brick & Mortar Business Insights Power BI Report
 
 ## Description
